@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0;
+
+}
+
+.main-stage {
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
+
+.stage {
+    width: 80vw;
+    height: 80vh;
+}
